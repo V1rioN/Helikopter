@@ -2,4 +2,5 @@
     Installation Guide
 </p>
 
-## Prerequisites 
+##### Prerequisites 
+1. <a href="https://www.python.org/downloads/">Python Installed<a>
