@@ -20,6 +20,6 @@
 6. <b>Shift + Right Click</b> on an empty space inside the Helikopter folder.
 7. Then click on <b>Open PowerShell window here</b>
 8. In the powershell window type<br> python game.py<br> or<br> python3 game.py
-9. Press enter, and <br>GG</br>
+9. Press enter, and <b>GG</b>
     
     
